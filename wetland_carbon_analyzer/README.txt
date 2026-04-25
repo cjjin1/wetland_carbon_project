@@ -1,0 +1,1 @@
+To start, simply place this directory with all of its files inside of an ArcGIS Pro project folder. Consult the documentation's Usage section for more details on how to run the tool.
